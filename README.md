@@ -1,3 +1,3 @@
 # odin-recipes
-Recipes project
+#Recipes project
 Basic HTML Website containing recipes.
